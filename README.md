@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manasa Prakash
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning Computer Science and Engineering
+- 🌱 I’m currently learning development
 - 😄 Pronouns: She/her
 
 <!---
