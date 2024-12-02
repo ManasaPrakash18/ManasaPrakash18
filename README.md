@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manasa Prakash
 - 🔭 I’m currently pursuing my Bachelors of Engineering in CS&E
 - 👀 I’m interested in CODING
-- 🌱 I got some knowledge on HTML, Python, C and JAVA programing
+- 🌱 I got some knowledge on HTML,CSS, Python, C and JAVA programing
 - 😊 Pronouns: She/her
 
 <!---
