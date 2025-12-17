@@ -1,10 +1,67 @@
-- 👋 Hi, I’m Manasa Prakash
-- 🔭 I’m currently pursuing my Bachelors of Engineering in CS&E
-- 👀 I’m interested in CODING
-- 🌱 I got some knowledge on HTML,CSS, Python, C and JAVA programing
-- 😊 Pronouns: She/her
+# 👋 Hey, I'm Manasa
 
-<!---
-ManasaPrakash18/ManasaPrakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **CSE Student | Aspiring Software Engineer | AI & Full-Stack Enthusiast**
+
+Welcome to my GitHub — this is where ideas turn into code, and code turns into impact.
+
+---
+
+## 🌱 About Me
+- 🎓 Computer Science & Engineering student  
+- 💡 Actively building **resume-worthy, future-proof skills**  
+- 🧠 Interested in **Full-Stack Development, AI, and problem-solving at scale**  
+- 📈 Focused on long-term growth, consistency, and high-leverage learning  
+
+I believe in **learning by building**, not just consuming tutorials.
+
+---
+
+## 🛠️ Tech Stack
+**Languages**  
+`C` `Java` `JavaScript`
+
+**Frontend**  
+`HTML` `CSS` `React` `Tailwind CSS`
+
+**Backend**  
+`Node.js` `Express.js`
+
+**Databases**  
+`MongoDB` `MySQL`
+
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📌 Current Focus
+- ⚙️ Strengthening **DSA & problem-solving fundamentals**  
+- 🌐 Building **full-stack MERN projects**  
+- 🤖 Exploring **AI-powered applications**  
+- 📚 Balancing academics with real-world skill development  
+
+---
+
+## 📂 Featured Projects
+> *(More coming soon — building in public)*
+
+- 🏠 **Airbnb Clone** – Full-stack MERN application  
+
+---
+
+## 📊 GitHub Philosophy
+- Clean code > clever code  
+- Consistency > intensity  
+- Projects > certificates  
+
+Every repository here represents **progress, not perfection**.
+
+---
+
+## 📫 Let’s Connect
+- 🌐 GitHub: *You’re already here 😉*  
+- 📩 Open to collaboration, learning, and growth opportunities  
+
+---
+
+✨ *Always learning. Always building. Always leveling up.*
